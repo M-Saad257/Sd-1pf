@@ -168,6 +168,9 @@ html, body {
     font-size: 1.05rem;
     color: #333;
 }
+.experience-text ul{
+    list-style-type: none;
+}
 
 /* ========== CONTACT ========== */
 #Contact {
