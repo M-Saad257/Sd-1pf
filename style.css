@@ -164,7 +164,7 @@ html, body {
 .experience-text, .about-text {
     max-width: 800px;
     margin: auto;
-    text-align: justify;
+    text-align: center;
     font-size: 1.05rem;
     color: #333;
 }
